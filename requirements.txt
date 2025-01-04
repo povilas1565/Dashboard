@@ -10,7 +10,7 @@ colorama==0.4.4
 cryptography==3.4.7
 Deprecated==1.2.12
 dj-database-url==0.5.0
-Django
+Django<=3
 django-utils-six==2.0
 firebase-admin==5.0.1
 Flask==2.0.1
@@ -72,3 +72,4 @@ promise==2.3
 Rx==1.6.1
 singledispatch==3.7.0
 text-unidecode==1.3
+
